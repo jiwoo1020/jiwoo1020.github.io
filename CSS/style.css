@@ -22,13 +22,6 @@ img {
     padding: 0 4%;
 }
 
-/* 큰 배경 이미지 */
-/*.big-bg {
-    background-size: cover;
-    background-position: center top;
-    background-repeat: no-repeat;
-} */
-
 /* 제목 */
 .page-title {
     font-size: 40px;
